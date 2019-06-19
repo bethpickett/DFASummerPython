@@ -1,6 +1,6 @@
 ## DFA Pickett 1st Semester Algebra 2 Python Project
 
-You can use the [editor on GitHub](https://github.com/bethpickett/DFASummerPython/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For more information on getting set up with python: [Python Setup](pythondownload.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
